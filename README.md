@@ -42,8 +42,43 @@ If you have any questions about the module, please contact the FAIMS team at **e
 
 ## Screenshots:
 <p align="left">
-  <img src="xxx" width="250"/>
-  <img src="xxx" width="250"/>
-  <img src="xxx" width="250"/>
+  <img src="https://github.com/FAIMS/PAZC/blob/master/screenshots/Screenshot_20170913-222715.png" width="250"/>
+  <img src="https://github.com/FAIMS/PAZC/blob/master/screenshots/Screenshot_20170913-222742.png" width="250"/>
+  <img src="https://github.com/FAIMS/PAZC/blob/master/screenshots/Screenshot_20170913-222747.png" width="250"/>
 </p>
 
+<p align="left">
+  <img src="https://github.com/FAIMS/PAZC/blob/master/screenshots/Screenshot_20170913-222754.png" width="250"/>
+  <img src="https://github.com/FAIMS/PAZC/blob/master/screenshots/Screenshot_20170913-222801.png" width="250"/>
+  <img src="https://github.com/FAIMS/PAZC/blob/master/screenshots/Screenshot_20170913-222812.png" width="250"/>
+</p>
+
+<p align="left">
+  <img src="https://github.com/FAIMS/PAZC/blob/master/screenshots/Screenshot_20170913-222819.png" width="250"/>
+  <img src="https://github.com/FAIMS/PAZC/blob/master/screenshots/Screenshot_20170913-222830.png" width="250"/>
+  <img src="https://github.com/FAIMS/PAZC/blob/master/screenshots/Screenshot_20170913-222842.png" width="250"/>
+</p>
+
+<p align="left">
+  <img src="https://github.com/FAIMS/PAZC/blob/master/screenshots/Screenshot_20170913-222848.png" width="250"/>
+  <img src="https://github.com/FAIMS/PAZC/blob/master/screenshots/Screenshot_20170913-222855.png" width="250"/>
+  <img src="https://github.com/FAIMS/PAZC/blob/master/screenshots/Screenshot_20170913-222902.png" width="250"/>
+</p>
+
+<p align="left">
+  <img src="https://github.com/FAIMS/PAZC/blob/master/screenshots/Screenshot_20170913-222917.png" width="250"/>
+  <img src="https://github.com/FAIMS/PAZC/blob/master/screenshots/Screenshot_20170913-222923.png" width="250"/>
+  <img src="https://github.com/FAIMS/PAZC/blob/master/screenshots/Screenshot_20170913-222933.png" width="250"/>
+</p>
+
+<p align="left">
+  <img src="https://github.com/FAIMS/PAZC/blob/master/screenshots/Screenshot_20170913-222941.png" width="250"/>
+  <img src="https://github.com/FAIMS/PAZC/blob/master/screenshots/Screenshot_20170913-222948.png" width="250"/>
+  <img src="https://github.com/FAIMS/PAZC/blob/master/screenshots/Screenshot_20170913-222952.png" width="250"/>
+</p>
+
+<p align="left">
+  <img src="https://github.com/FAIMS/PAZC/blob/master/screenshots/Screenshot_20170913-223007.png" width="250"/>
+  <img src="https://github.com/FAIMS/PAZC/blob/master/screenshots/Screenshot_20170913-223017.png" width="250"/>
+  <img src="https://github.com/FAIMS/PAZC/blob/master/screenshots/Screenshot_20170913-223027.png" width="250"/>
+</p>
